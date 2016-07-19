@@ -13,13 +13,15 @@ This project let's you do that (badly).
 - Buy/steal a Tessel 2
 - Set up your Tessel 2 for projects: http://tessel.github.io/t2-start/
 
+## To run
+
+- t2 run ble.js
+
+# Using Keen.io
+
+https://keen.io/docs/
+
 # Using Modules
-
-## Bluetooth Low Energy Module
-
-https://tessel.github.io/t2-start/modules/ble.html
-
-npm install noble --force
 
 ## WiFi
 
@@ -28,6 +30,8 @@ https://tessel.io/docs/networkAPI
 CAT
 http://www.thesewingparty.com/wp-content/uploads/2016/03/catpack_4.jpg
 
-## To run
+## Bluetooth Low Energy Module
 
-- t2 run ble.js
+https://tessel.github.io/t2-start/modules/ble.html
+
+npm install noble --force
