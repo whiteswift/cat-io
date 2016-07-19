@@ -13,13 +13,9 @@ This project let's you do that (badly).
 - Buy/steal a Tessel 2
 - Set up your Tessel 2 for projects: http://tessel.github.io/t2-start/
 
-## To run
+# To run
 
 - t2 run ble.js
-
-# Using Keen.io
-
-https://keen.io/docs/
 
 # Using Modules
 
@@ -35,3 +31,7 @@ http://www.thesewingparty.com/wp-content/uploads/2016/03/catpack_4.jpg
 https://tessel.github.io/t2-start/modules/ble.html
 
 npm install noble --force
+
+# Using Keen.io
+
+https://keen.io/docs/
