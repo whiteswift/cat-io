@@ -23,9 +23,6 @@ This project let's you do that (badly).
 
 https://tessel.io/docs/networkAPI
 
-CAT
-http://www.thesewingparty.com/wp-content/uploads/2016/03/catpack_4.jpg
-
 ## Bluetooth Low Energy Module
 
 https://tessel.github.io/t2-start/modules/ble.html
