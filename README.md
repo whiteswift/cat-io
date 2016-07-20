@@ -32,3 +32,5 @@ npm install noble --force
 # Using Keen.io
 
 https://keen.io/docs/
+
+### Special thanks to [thearegee](https://github.com/thearegee)
