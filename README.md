@@ -15,7 +15,7 @@ This project let's you do that (badly).
 
 # To run
 
-- t2 run ble.js
+- t2 run catio.js
 
 # Using Modules
 
